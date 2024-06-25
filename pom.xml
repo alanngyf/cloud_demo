@@ -9,6 +9,8 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>springcloud-api</module>
+        <module>springcloud-provider-dept</module>
+        <module>springcloud-consumer-dept</module>
     </modules>
 
     <packaging>pom</packaging>
